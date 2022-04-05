@@ -1,1 +1,4 @@
-# SE577
+# SE577 
+Hi, my name is Matthew Schmitt and I am pursuing a Masters of Science in Software Engineering at Drexel University Online. I have a full-time job as an integration and test engineer in addition to the one course I take each quarter to slowly chip away at my degree. My work sometimes requires me to travel with varying levels of access to the internet. If a trip does come up, I will make sure to be up front about and and let you know in advance if I fear it will impact any of my coursework.
+
+Prior to our first lecture, I did not know what Software Architecture really was. At my work I hear people with titles of system architect and the like, but again never knew what they did. I hope this course continues to show me what software architecture is and how to manage software as well as provide some insight into what it might mean to be a software architect at my company.
